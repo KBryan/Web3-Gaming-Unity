@@ -50,7 +50,7 @@ Next, we will go over the different prefabs or ChainLegos we will be using to bu
 
 TODO: Insert Video Deploying Building Minting NFT open sea testnet
 
-Building out the Endless Runner
+## Building out the Endless Runner
 
 TODO : Insert Video Building out simple Endless Runner in Unity3D with NFT as character
 
