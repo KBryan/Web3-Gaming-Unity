@@ -1,6 +1,6 @@
 # Decentralised Mobile Gaming begins with WebGL === 0
 
-When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised games development.
+When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised game development.
 
 ## NFT's
 
