@@ -17,7 +17,7 @@ Here's is a snippet from Wikipedia for those that are new to the concept.
 
 
 
-This uniqueness is what makes NFT's in decentralised gaming so interesting. If you have played games as I have, you may have imagined this character you built up and the possibility of using that character in another game and or blockchain. Well, in this series of tutorials on building blockchain games with the ChainSafe Unity Gaming SDK. We will do a bit of both:
+This uniqueness is what makes NFT's in decentralised gaming so interesting. If you have played games as I have, you may have imagined this character you built up and the possibility of using that character in another game and or blockchain. A description of NFT's is a rabbit hole I wish not to get into. For games having a unique item stored on the blockchain that could have records of all battles played living forever is an interesting thought. Well, in this series of tutorials on building blockchain games with the ChainSafe Unity Gaming SDK. We will do both:
 
 1. We are going to need to download the SDK and set up our development environment.
 2. We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
