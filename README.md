@@ -36,6 +36,7 @@ We will walk through the SDK and get you up to speed on everything you need to k
 
 We will begin by downloading the SDK from GitHub and then creating a starter project to get the players account information from our MetaMask wallet and display it on screen. 
 * Follow the link provided and then follow the video tutorial below.
+
 Please follow the video tutorial below.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8UHLtXWJdt8/0.jpg)](https://www.youtube.com/watch?v=8UHLtXWJdt8)
