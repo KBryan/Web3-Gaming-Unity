@@ -1,8 +1,8 @@
-# Web3-Gaming-Unity
+# The current State of decentralised Mobile Gaming begins with WebGL === 0
 
 When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised games development.
 
-# NFT's
+## NFT's
 
 
 ![NFTWTF-1080x720](https://user-images.githubusercontent.com/681817/135502611-174c0589-d890-41d9-805b-fcb0a4bb237b.jpg?style=centerme)
@@ -19,6 +19,9 @@ Here's is a snippet from Wikipedia for those that are new to the concept.
 
 This uniqueness is what makes NFT's in decentralised gaming so interesting. If you have played games as I have, you may have imagined this character you built up and the possibility of using that character in another game and or blockchain. Well, in this series of tutorials on building blockchain games with the ChainSafe Unity Gaming SDK. We will do a bit of both:
 
+1. We are going to need to download the SDK and set up our development environment.
+2. We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
+3. We will lay the foundation for our endless runner game that will start as a WebGL browser game, "the current state of decentralised gaming," and then port that game to a mobile experience "the future".
 
 
 ![giphy](https://user-images.githubusercontent.com/681817/135502868-a40e1355-d1d2-4253-b457-f12b84c54cd5.gif?style=centerme)
@@ -28,7 +31,7 @@ We are going to need to download the SDK and set up our development environment.
 We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
 We will lay the foundation for our endless runner game that will start as a WebGL browser game, "the current state of decentralised gaming," and then port that game to a mobile experience "the future".
 
-Installing the SDK and configuring our development environment
+## Installing the SDK and configuring our development environment
 
 We will begin by downloading the SDK from GitHub and then creating a starting project to get the players to get the account information from our MetaMask wallet and display it on screen. Please follow the video tutorial below.
 
@@ -37,7 +40,7 @@ We will begin by downloading the SDK from GitHub and then creating a starting pr
 If you have followed the tutorial and seen your account information, you have successfully configured ChainSafe Unity gaming. Follow the link below and get your POAP for completing this stage coming soon.
 
 
-ChainSafe Gaming SDK prefabs.
+## ChainSafe Gaming SDK prefabs.
 
 Next, we will go over the different prefabs or ChainLegos we will be using to build out our decentralised game. The team created these prefabs with all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contract.
 
