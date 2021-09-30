@@ -27,14 +27,12 @@ This uniqueness is what makes NFT's in decentralised gaming so interesting. If y
 
 We are going to need to download the SDK and set up our development environment.
 We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
-We will lay the foundation for our endless runner game that will start as a WebGL browser game, "the current state of decentralised gaming," and then port that game to a mobile experience "the future".
-
 
 ![giphy](https://user-images.githubusercontent.com/681817/135502868-a40e1355-d1d2-4253-b457-f12b84c54cd5.gif?style=centerme)
 
 ## Installing the SDK and configuring our development environment
 
-We will begin by downloading the SDK from GitHub and then creating a starting project to get the players to get the account information from our MetaMask wallet and display it on screen. Please follow the video tutorial below.
+We will begin by downloading the SDK from GitHub and then creating a starter project to get the players account information from our MetaMask wallet and display it on screen. Please follow the video tutorial below.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8UHLtXWJdt8/0.jpg)](https://www.youtube.com/watch?v=8UHLtXWJdt8)
 
