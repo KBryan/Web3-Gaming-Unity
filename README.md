@@ -26,7 +26,7 @@ This uniqueness is what makes NFT's in decentralised gaming so interesting. If y
 
 We are going to need to download the SDK and set up our development environment.
 We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
-We will lay the foundation for our endless runner game that will start as a WebGL browser game, "the current state of decentralised gaming," and then port that game to a mobile experience.
+We will lay the foundation for our endless runner game that will start as a WebGL browser game, "the current state of decentralised gaming," and then port that game to a mobile experience "the future".
 
 Installing the SDK and configuring our development environment
 
