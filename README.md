@@ -32,7 +32,7 @@ We will walk through the SDK and get you up to speed on everything you need to k
 
 ## Installing the SDK and configuring our development environment
 
-[ChainSafe Gaming SDK](https://github.com/ChainSafe/web3.unity/releases)
+[ChainSafe Gaming SDK Download](https://github.com/ChainSafe/web3.unity/releases)
 
 We will begin by downloading the SDK from GitHub and then creating a starter project to get the players account information from our MetaMask wallet and display it on screen. Please follow the video tutorial below.
 
