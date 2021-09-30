@@ -16,7 +16,7 @@ Installing the SDK and configuring our development environment
 
 We will begin by downloading the SDK from GitHub and then creating a starting project to get the players to get the account information from our MetaMask wallet and display it on screen.
 
-<Insert Confiuration Video>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8UHLtXWJdt8/0.jpg)](https://www.youtube.com/watch?v=8UHLtXWJdt8)
 
 If you have followed the tutorial and seen your account information, you have successfully configured ChainSafe Unity gaming. Follow the link below and get your POAP for completing this stage coming soon.
 
