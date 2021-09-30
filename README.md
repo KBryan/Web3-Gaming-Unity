@@ -9,9 +9,13 @@ When tasked with describing the future state of mobile blockchain games, I first
 
 
 Here's is a snippet from Wikipedia for those that are new to the concept.
-"A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable.[1] NFTs can be used to represent items such as photos, videos, audio, and other types of digital files. 
 
-However, access to any copy of the original file is not restricted to the buyer of the NFT. While copies of these digital items are available for anyone to obtain, NFTs are tracked on blockchains to provide the owner with a proof of ownership that is separate from copyright."
+"A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable.[1] NFTs can be used to represent items such as photos, videos, audio, and other types of digital files. However, access to any copy of the original file is not restricted to the buyer of the NFT. While copies of these digital items are available for anyone to obtain, NFTs are tracked on blockchains to provide the owner with a proof of ownership that is separate from copyright."
+
+
+![download-1](https://user-images.githubusercontent.com/681817/135503588-540e5964-3184-44a0-84a5-d29ebc9238d8.jpg)
+
+
 
 This uniqueness is what makes NFT's in decentralised gaming so interesting. If you have played games as I have, you may have imagined this character you built up and the possibility of using that character in another game and or blockchain. Well, in this series of tutorials on building blockchain games with the ChainSafe Unity Gaming SDK. We will do a bit of both:
 
