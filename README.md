@@ -5,7 +5,7 @@ When tasked with describing the future state of mobile blockchain games, I first
 # NFT's
 
 
-![NFTWTF-1080x720](https://user-images.githubusercontent.com/681817/135502611-174c0589-d890-41d9-805b-fcb0a4bb237b.jpg)
+![NFTWTF-1080x720](https://user-images.githubusercontent.com/681817/135502611-174c0589-d890-41d9-805b-fcb0a4bb237b.jpg style=centerme)
 
 
 Here's is a snippet from Wikipedia for those that are new to the concept.
