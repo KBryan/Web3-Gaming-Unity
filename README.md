@@ -1,6 +1,6 @@
 # Decentralised Mobile Gaming begins with WebGL === 0
 
-When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised game development. Well, for one I recently read an article about people in the Philipines playing play to earn games full time during the pandemic. In many cases the people are making more money playing a video game than the jobs they had before tehe pandemic. So, in essence would this story be the same if the game was centralised? I would think not. There is something that I'm sure we can all agree on NFT's are the great divider. 
+When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised game development. Well, for one I recently read an article about people in the Philipines playing play to earn games full time during the pandemic. In many cases the people are making more money playing a video game than the jobs they had before. So, in essence would this story be the same if the game was centralised? I would think not. There is something that I'm sure we can all agree on NFT's are the great divider. If you want to look into the future and try to define what mobile blockchains will look like. We only need to look at the present.
 
 ## NFT's
 
@@ -34,7 +34,9 @@ We will walk through the SDK and get you up to speed on everything you need to k
 
 [ChainSafe Gaming SDK Download](https://github.com/ChainSafe/web3.unity/releases)
 
-We will begin by downloading the SDK from GitHub and then creating a starter project to get the players account information from our MetaMask wallet and display it on screen. Please follow the video tutorial below.
+We will begin by downloading the SDK from GitHub and then creating a starter project to get the players account information from our MetaMask wallet and display it on screen. 
+* Follow the link provided and then follow the video tutorial below.
+Please follow the video tutorial below.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8UHLtXWJdt8/0.jpg)](https://www.youtube.com/watch?v=8UHLtXWJdt8)
 
@@ -43,10 +45,10 @@ If you have followed the tutorial and seen your account information, you have su
 
 ## ChainSafe Gaming SDK prefabs.
 
-Next, we will go over the different prefabs or ChainLegos we will be using to build out our decentralised game. The SDK provides you with prefabs that contain all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contracts too. This will be covered also. For now let's look at how all these peices work together.
+Next, we will go over the different prefabs or ChainLegos we will be using to build out our decentralised game. The SDK provides you with prefabs that contain all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contracts too. This will be covered also. For now let's look at how all these pieces work together.  
 
 
-TODO: Insert Video Deploying Building Minting NFT open sea testnet>
+TODO: Insert Video Deploying Building Minting NFT open sea testnet
 
 Building out the Endless Runner
 
