@@ -25,12 +25,12 @@ This uniqueness is what makes NFT's in decentralised gaming so interesting. If y
 4. We will lay the foundation for our endless runner game that will start as a WebGL browser game publishing this to the web, "the current state of decentralised gaming," and then port that game to give our users a mobile experience "the future".
 
 
-![giphy](https://user-images.githubusercontent.com/681817/135502868-a40e1355-d1d2-4253-b457-f12b84c54cd5.gif?style=centerme)
-
-
 We are going to need to download the SDK and set up our development environment.
 We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
 We will lay the foundation for our endless runner game that will start as a WebGL browser game, "the current state of decentralised gaming," and then port that game to a mobile experience "the future".
+
+
+![giphy](https://user-images.githubusercontent.com/681817/135502868-a40e1355-d1d2-4253-b457-f12b84c54cd5.gif?style=centerme)
 
 ## Installing the SDK and configuring our development environment
 
@@ -46,11 +46,11 @@ If you have followed the tutorial and seen your account information, you have su
 Next, we will go over the different prefabs or ChainLegos we will be using to build out our decentralised game. The team created these prefabs with all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contract.
 
 
-<Insert Video Deploying Building Minting NFT open sea testnet>
+TODO: Insert Video Deploying Building Minting NFT open sea testnet>
 
 Building out the Endless Runner
 
-<Insert Video Building out simple Endless Runner in Unity3D with NFT as character>
+TODO : Insert Video Building out simple Endless Runner in Unity3D with NFT as character
 
 
 Thanks for following this intro tutorial to building decentralised games using the ChainSafe gaming SDK. We will be continuing the tutorials series. So please follow and subscribe to this following series.
