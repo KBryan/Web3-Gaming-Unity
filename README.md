@@ -1,6 +1,6 @@
 # Decentralised Mobile Gaming begins with WebGL === 0
 
-When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised game development.
+When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised game development. Well, for one I recently read an article about people in the Philipines playing play to earn games full time during the pandemic. In many cases the people are making more money playing a video game than the jobs they had before tehe pandemic. So, in essence would this story be the same if the game was centralised? I would think not. There is something that I'm sure we can all agree on NFT's are the great divider. 
 
 ## NFT's
 
@@ -41,7 +41,7 @@ If you have followed the tutorial and seen your account information, you have su
 
 ## ChainSafe Gaming SDK prefabs.
 
-Next, we will go over the different prefabs or ChainLegos we will be using to build out our decentralised game. The team created these prefabs with all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contract.
+Next, we will go over the different prefabs or ChainLegos we will be using to build out our decentralised game. The SDK provides you with prefabs that contain all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contracts too. This will be covered also. For now let's look at how all these peices work together.
 
 
 TODO: Insert Video Deploying Building Minting NFT open sea testnet>
