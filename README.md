@@ -1,4 +1,4 @@
-# The current State of decentralised Mobile Gaming begins with WebGL === 0
+# Decentralised Mobile Gaming begins with WebGL === 0
 
 When tasked with describing the future state of mobile blockchain games, I first had to look at the current state of web3 gaming. If you have had any exposure to the blockchain gaming ecosystem, you have probably heard the words Axie Infinity, Blankos Block Party and the one that started it all CryptoKitties. Okay, so, honestly, this is a nothing burger. So what differentiates the current centralised game development from decentralised games development.
 
@@ -53,6 +53,6 @@ Building out the Endless Runner
 TODO : Insert Video Building out simple Endless Runner in Unity3D with NFT as character
 
 
-Thanks for following this intro tutorial to building decentralised games using the ChainSafe gaming SDK. We will be continuing the tutorials series. So please follow and subscribe to this following series.
+Thanks for following this intro tutorial to building decentralised games using the ChainSafe gaming SDK. We will be continuing this tutorials series. So please follow and subscribe to this following series.
 
 
