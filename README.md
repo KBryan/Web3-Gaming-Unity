@@ -9,12 +9,16 @@ When tasked with describing the future state of mobile blockchain games, I first
 
 
 Here's is a snippet from Wikipedia for those that are new to the concept.
-"A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable.[1] NFTs can be used to represent items such as photos, videos, audio, and other types of digital files. However, access to any copy of the original file is not restricted to the buyer of the NFT. While copies of these digital items are available for anyone to obtain, NFTs are tracked on blockchains to provide the owner with a proof of ownership that is separate from copyright."
+"A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable.[1] NFTs can be used to represent items such as photos, videos, audio, and other types of digital files. 
+
+However, access to any copy of the original file is not restricted to the buyer of the NFT. While copies of these digital items are available for anyone to obtain, NFTs are tracked on blockchains to provide the owner with a proof of ownership that is separate from copyright."
 
 This uniqueness is what makes NFT's in decentralised gaming so interesting. If you have played games as I have, you may have imagined this character you built up and the possibility of using that character in another game and or blockchain. Well, in this series of tutorials on building blockchain games with the ChainSafe Unity Gaming SDK. We will do a bit of both:
 
 
-![giphy](https://user-images.githubusercontent.com/681817/135502868-a40e1355-d1d2-4253-b457-f12b84c54cd5.gif)
+
+![giphy](https://user-images.githubusercontent.com/681817/135502868-a40e1355-d1d2-4253-b457-f12b84c54cd5.gif?style=centerme)
+
 
 We are going to need to download the SDK and set up our development environment.
 We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
