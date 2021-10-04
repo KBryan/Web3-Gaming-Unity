@@ -29,13 +29,13 @@ Here's is a snippet from Wikipedia for those that are new to the concept.
 This uniqueness is what makes NFT's in decentralised gaming so interesting. If you have played games as I have, you may have imagined this character you built up and the possibility of using that character in another game and or blockchain. A description of NFT's is a rabbit hole I wish not to get into. For games having a unique item stored on the blockchain that could have records of all battles played living forever is an interesting thought. Well, in this series of tutorials on building blockchain games with the ChainSafe Unity Gaming SDK. We will do both:
 
 1. We are going to need to download the SDK and set up our development environment.
-2. We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
+2. We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralized games.
 3. We will work with marketplaces and apply the knowledge we have gained from learning the fundamentals and will apply this into our own creation.
-4. We will lay the foundation for our endless runner game that will start as a WebGL browser game publishing this to the web, "the current state of decentralised gaming," and then port that game to give our users a mobile experience "the future".
+4. We will lay the foundation for our endless runner game that will start as a WebGL browser game publishing this to the web, "the current state of decentralized gaming," and then port that game to give our users a mobile experience "the future".
 
 
 We are going to need to download the SDK and set up our development environment.
-We will walk through the SDK and get you up to speed on everything you need to know and the ChainLegos needed to create your decentralised games.
+We will walk through the SDK and get you up to speed on everything you need to know and the Prefabs needed to create your decentralized games.
 
 ![giphy](https://user-images.githubusercontent.com/681817/135502868-a40e1355-d1d2-4253-b457-f12b84c54cd5.gif?style=centerme)
 
@@ -55,7 +55,7 @@ If you have followed the tutorial and seen your account information, you have su
 
 ## ChainSafe Gaming SDK prefabs.
 
-Next, we will go over the different prefabs or ChainLegos we will be using to build out our decentralised game. The SDK provides you with prefabs that contain all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contracts too. This will be covered also. For now let's look at how all these pieces work together.  
+Next, we will go over the different prefabs we will be using to build out our decentralized game. The SDK provides you with prefabs that contain all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contracts too. This will be covered also. For now let's look at how all these pieces work together.  
 
 
 TODO: Insert Video Deploying Building Minting NFT open sea testnet
@@ -65,6 +65,6 @@ TODO: Insert Video Deploying Building Minting NFT open sea testnet
 TODO : Insert Video Building out simple Endless Runner in Unity3D with NFT as character
 
 
-Thanks for following this intro tutorial to building decentralised games using the ChainSafe gaming SDK. We will be continuing this tutorials series. So please follow and subscribe to this following series.
+Thanks for following this intro tutorial to building decentralized games using the ChainSafe gaming SDK. We will be continuing this tutorials series. So please follow and subscribe to this following series.
 
 
