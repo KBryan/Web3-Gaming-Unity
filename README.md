@@ -62,21 +62,6 @@ Please follow the video tutorial below.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8UHLtXWJdt8/0.jpg)](https://www.youtube.com/watch?v=8UHLtXWJdt8)
 
-If you have followed the tutorial and seen your account information, you have successfully configured ChainSafe Unity gaming. Follow the link below and get your POAP for completing this stage coming soon.
-
-
-## ChainSafe Gaming SDK prefabs.
-
-Next, we will go over the different prefabs we will be using to build out our decentralized game. The SDK provides you with prefabs that contain all the functionality you need to build out your game. The only editing you will need is to update your smart contract address and network that you deployed your contracts too. This will be covered also. For now let's look at how all these pieces work together.  
-
-
-TODO: Insert Video Deploying Building Minting NFT open sea testnet
-
-## Building out the Endless Runner
-
-TODO : Insert Video Building out simple Endless Runner in Unity3D with NFT as character
-
-
-Thanks for following this intro tutorial to building decentralized games using the ChainSafe gaming SDK. We will be continuing this tutorials series. So please follow and subscribe to this following series.
+If you have followed the tutorial and seen your account information, you have successfully configured ChainSafe Unity gaming. This is enough to get you started in the next set of tutorials we will finish off our first decentralized game. Follow us for updates
 
 
