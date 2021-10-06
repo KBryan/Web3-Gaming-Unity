@@ -62,7 +62,7 @@ Please visit the link below and follow our newly released documentation and buil
 
 [Visit our documentation](https://chainsafe.github.io/game-docs/)
 
-Lastly, do you want to take a look into the future of Web3 gaming? Check out this video from our Head of Gaming.
+Lastly, do you want to take a look into the future of Web3 mobile gaming? Check out this updated video from our Head of Gaming.
 
 [![Watch the video](https://miro.medium.com/max/1400/1*0UyEMJ0Hw0oObzcBUwwKQw.png)](https://www.youtube.com/watch?v=7D-pja1Dmkg)
 
