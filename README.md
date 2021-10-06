@@ -5,11 +5,11 @@ When tasked with describing the current state of mobile blockchain games, I firs
 
 ## Play to Earn 
 
-Well, for one, I recently read an article about people in the Philippines playing play-to-earn games full time during the pandemic <tim: should we name names?>. In many cases, the people are making more money playing a video game than the jobs they had before. On the contrary, would this story be the same if the game had been published by a single publisher with a centralized, silo'd off ecosystem? I would think not.
+Well, for one, I recently read an article about people in the Philippines playing play-to-earn games full time during the pandemic . In many cases, the people are making more money playing a video game than the jobs they had before. On the contrary, would this story be the same if the game had been published by a single publisher with a centralized, silo'd off ecosystem? I would think not.
 
-There is something that I'm sure we can all agree on - _NFT's are the great divider_. <tim: divider sounds antagonistic. NFT's are the great unlocker, or something to that effect, sounds more inclusive and collaborative. We may also want to explain *what* potential it unlocks>
+There is something that I'm sure we can all agree on -  NFT's are the great unlocker, or something to that effect, sounds more inclusive and collaborative. We may also want to explain *what* potential it unlock>
 
-If you want to look into the future and try to define what mobile blockchains <tim: Do you mean "mobile blockchain gaming?"> will look like, we only need to look to the present. Play-to-earn is a model for games where players can earn real money or other rewards by playing. And that’s just one of the games that has potential in the play-to-earn space - that’s the kind of market Decentralized Gaming is going after and will completely disrupt.
+If you want to look into the future and try to define what mobile blockchain gaming?" will look like, we only need to look to the present. Play-to-earn is a model for games where players can earn real money or other rewards by playing. And that’s just one of the games that has potential in the play-to-earn space - that’s the kind of market Decentralized Gaming is going after and will completely disrupt.
 
 Polygon - a major sidechain - meanwhile has created a full-stack Ethereum scaling solution. That means that it has created its own layer of technology that offloads transactions from Ethereum, as Ethereum can often times be slow, expensive to transact over, and costly for the environment (under the proof-of-work regime). The current state of blockchain games is being squeezed out by high gas fees. Gas fee refer to the amount one has to pay on a particular platform. There are many options that run ontop of Ethereum these chains are called L2's "layer two" that allow for lower gas fees. There are many currently on the market that alleviate this, although Polygon seems the be the winner currently.
 
@@ -27,7 +27,7 @@ Here's is a snippet from Wikipedia for those that are new to the concept.
 
 "A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable.[1] NFTs can be used to represent items such as photos, videos, audio, and other types of digital files. However, access to any copy of the original file is not restricted to the buyer of the NFT. While copies of these digital items are available for anyone to obtain, NFTs are tracked on blockchains to provide the owner with a proof of ownership that is separate from copyright."
 
-<tim adds> In other words, for the first time in the history of computing, blockchains have unlocked both digital provenance and provable scarcity on otherwise infinitely reproducible digital assets. 
+ In other words, for the first time in the history of computing, blockchains have unlocked both digital provenance and provable scarcity on otherwise infinitely reproducible digital assets. 
   
 That's yuge.
 
