@@ -11,7 +11,7 @@ There is something that I'm sure we can all agree on - _NFT's are the great divi
 
 If you want to look into the future and try to define what mobile blockchains <tim: Do you mean "mobile blockchain gaming?"> will look like, we only need to look to the present. Play-to-earn is a model for games where players can earn real money or other rewards by playing. And that’s just one of the games that has potential in the play-to-earn space - that’s the kind of market Decentralized Gaming is going after and will completely disrupt.
 
-Polygon - a major sidechain - meanwhile has created a full-stack Ethereum scaling solution. That means that it has created its own layer of technology that offloads transactions from Ethereum, as Ethereum can often times be slow, expensive to transact over, and costly for the environment (under the proof-of-work regime). <tim: what is this section inferring? are we bringing up Polygon because gaming will be huge in this stack? Would love to see this expanded!>
+Polygon - a major sidechain - meanwhile has created a full-stack Ethereum scaling solution. That means that it has created its own layer of technology that offloads transactions from Ethereum, as Ethereum can often times be slow, expensive to transact over, and costly for the environment (under the proof-of-work regime). The current state of blockchain games is being squeezed out by high gas fees. Gas fee refer to the amount one has to pay on a particular platform. There are many options that run ontop of Ethereum these chains are called L2's "layer two" that allow for lower gas fees. There are many currently on the market that alleviate this, although Polygon seems the be the winner currently.
 
 
 ![0_S0eQdz7iBNuyidRi](https://user-images.githubusercontent.com/681817/135526593-bc0500dd-e475-47f3-9f7c-faac6cc5bf25.png)
@@ -58,10 +58,15 @@ We will walk through the SDK and get you up to speed on everything you need to k
 We will begin by downloading the SDK from GitHub and then creating a starter project to get the players account information from our MetaMask wallet and display it on screen. 
 * Follow the link provided and then follow the video tutorial below.
 
-Please follow the video tutorial below.
+Please visit the link below and follow our newly released documentation and build your first blockchain game.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8UHLtXWJdt8/0.jpg)](https://www.youtube.com/watch?v=8UHLtXWJdt8)
+[Visit our documentation](https://chainsafe.github.io/game-docs/)
 
-If you have followed the tutorial and seen your account information, you have successfully configured ChainSafe Unity gaming. This is enough to get you started in the next set of tutorials we will finish off our first decentralized game. Follow us for updates
-
+Lastly, do you want to take a look into the future of Web3 gaming? Check out this video from our Head of Gaming.
+  
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=7D-pja1Dmkg" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
