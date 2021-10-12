@@ -7,9 +7,15 @@ Many of you now reading this article may have some knowledge and background on t
 
 # Gas Pains and Ethereum Scalability 
 
+![ETH2Image](https://user-images.githubusercontent.com/681817/136958295-0787443c-8277-46b0-86bc-d4f6e346a3ce.jpg)
+
 It is impossible not to bring up gas prices, i.e. transaction fees when talking about Ethereum. The one downside that we see with Ethereum's popularity is that the more we use the Ethereum blockchain, the more expensive it is to transact on that network. Adding a new consensus model to the Ethereum EVM aloud faster transaction times and reduced fees "Layer 2's". The elephant in the room for Ethereum is its scalability and high gas fees. However, many of these will be fixed hopefully with the release of Eth2.  Now, some of you are reading this that are familiar with the EIP-1559 standard, and it aims to make gas prices cheaper, and mining is an afterthought and is beyond the scope of this article, but here is a link for the curious https://consensys.net/blog/quorum/what-is-eip-1559-how-will-it-change-ethereum/  . 
 
 It is still not determined if this will change the enormous gas fees we see on Ethereum. We are still waiting, and many of these layer2 solutions we discussed earlier are filling the gap for the time being. 
+
+![ethereum](https://user-images.githubusercontent.com/681817/136958214-211f23eb-6978-4940-99b9-8d8912ca0e3d.jpg)
+
+
 
 # With so many EVM compatible chains, which one do I choose?
 
@@ -18,6 +24,9 @@ EVM compatible chain one or EVM compatible chain two is the question I get asked
 1. What chain the developer initially wrote the contracts for the supported chain.
 2. On what chain are the assets deployed too, which means if you have NFT's in your game where these contracts deployed to multiple chains of just a specific one.
 3. The network effect is usually the most important. What chain are you going to see the most adoption?  If there is a majority of users on a specific chain. You will most likely choose the one with the most users or the most significant network effect. 
+
+![ETH2Image](https://user-images.githubusercontent.com/681817/136957828-a412d229-4896-4313-bb1d-fef693922152.jpg)
+
  
 So, with the above stated, it will likely come down to you, the developer deciding the major chain you wish to support and the compiled contracts for the other chains.
 
@@ -26,6 +35,7 @@ So, with the above stated, it will likely come down to you, the developer decidi
 So, we have tried to explain in short form what the multi-chain paradigm is and the initial reason for creating a Gaming SDK that supports multiple blockchains but do we write our games once and play anywhere? No, not exactly. What happens is that our frontend dApp communicates with the various backends, i.e. "smart contracts", but our contracts need to be launched and deployed to the different chains we are supporting. The one that is great in this scenario is that the other chains are all EVM compatible. We are still writing our code in Solidity, the primary programming language of the Ethereum blockchain. 
 
 Then, our users will play the game or dApp on the specified platform by selecting the appropriate wallet to pay funds and transact. Now, this is a highly contested and argued topic. Should our games be chain specific or chain agnostic at ChainSafe, we choose the latter and is how our gaming SDK works. So, you write one frontend, i.e. "Unity3D", regarding the gaming SDK, and have multiple backends, i.e. "Polygon/Binance/Moonbeam", etc. These are your deployed contracts and, lastly, the middleware that ties all these together, the ChainSafe gaming SDK.
+
 
 # In closing...
 
