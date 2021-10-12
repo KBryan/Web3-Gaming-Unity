@@ -1,4 +1,4 @@
-## Multi-Chain Blockchain Game Development 
+## Multi-Chain Development 
 
 Hi friends, Kwame here with another article on the state of blockchain gaming. In this article, we are going to look at Multi-Chain development. Blockchain agnosticism is essential to the mission at ChainSafe as we work closely with many blockchains, Mina / Cosmos / Ethereum Classic and various flavours of the EVM Binance and Polygon, to name a few. For the ChainSafe gaming SDK, we currently support Ethereum / Avalanche / Binance / Moonbeam / Polygon and XDai, with many more currently in development and testing. 
 
