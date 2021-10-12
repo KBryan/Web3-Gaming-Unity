@@ -25,7 +25,8 @@ EVM compatible chain one or EVM compatible chain two is the question I get asked
 2. On what chain are the assets deployed too, which means if you have NFT's in your game where these contracts deployed to multiple chains of just a specific one.
 3. The network effect is usually the most important. What chain are you going to see the most adoption?  If there is a majority of users on a specific chain. You will most likely choose the one with the most users or the most significant network effect. 
 
-![ETH2Image](https://user-images.githubusercontent.com/681817/136957828-a412d229-4896-4313-bb1d-fef693922152.jpg)
+
+![0_qLYwpkbX0YuKQyaQ](https://user-images.githubusercontent.com/681817/136958680-469936b2-2696-46c3-a293-d55960ac26e1.jpg)
 
  
 So, with the above stated, it will likely come down to you, the developer deciding the major chain you wish to support and the compiled contracts for the other chains.
