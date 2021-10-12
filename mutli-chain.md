@@ -37,6 +37,8 @@ So, we have tried to explain in short form what the multi-chain paradigm is and 
 
 Then, our users will play the game or dApp on the specified platform by selecting the appropriate wallet to pay funds and transact. Now, this is a highly contested and argued topic. Should our games be chain specific or chain agnostic at ChainSafe, we choose the latter and is how our gaming SDK works. So, you write one frontend, i.e. "Unity3D", regarding the gaming SDK, and have multiple backends, i.e. "Polygon/Binance/Moonbeam", etc. These are your deployed contracts and, lastly, the middleware that ties all these together, the ChainSafe gaming SDK.
 
+![71ffd47d032be54a1fad877bded70868](https://user-images.githubusercontent.com/681817/136959075-63eb7264-e869-4a76-a6e9-0fd7497423cd.jpg)
+
 
 # In closing...
 
